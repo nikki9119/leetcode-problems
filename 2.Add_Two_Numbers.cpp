@@ -1,4 +1,4 @@
-// Solution for Two Sum contributed by nikki9119.
+// Solution for Add Two Numbers contributed by nikki9119.
 
 /*
 Problem URL: https://leetcode.com/problems/add-two-numbers/
