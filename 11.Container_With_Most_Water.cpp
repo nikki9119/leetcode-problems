@@ -1,4 +1,4 @@
-// Solution for Longest Substring Without Repeating Characters contributed by nikki9119.
+// Solution for Container With Most Water contributed by nikki9119.
 
 /*
 Problem URL: https://leetcode.com/problems/container-with-most-water/
