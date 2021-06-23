@@ -1,4 +1,4 @@
-// Solution for Reverse Linked List contributed by nikki9119.
+// Solution for Missing Number contributed by nikki9119.
 
 /*
 Problem URL: https://leetcode.com/problems/missing-number/
